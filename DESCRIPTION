@@ -1,0 +1,10 @@
+Package: abjTemplates
+Title: ABJ Formats for R Markdown
+Version: 0.0.0.9000
+Authors@R: person("Fernando", "Corrêa", email = "fcorrea@abjur.com", role = c("aut", "cre"))
+Description: A suite of custom R Markdown formats and templates for
+authoring documents used by the Brazilian Jurimetrics Association.
+Depends: R (>= 3.4.1)
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
