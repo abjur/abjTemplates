@@ -1,0 +1,35 @@
+---
+title: "Title" 
+author: "Me"
+logo: "logo-abj.png"
+background-img: "logo-abj.png"
+background-scale: 2
+company: "Associação Brasileira de Jurimetria"
+company-address: "Rua Gomes de Carvalho, 1356, 2º andar. CEP 04547-005 - São Paulo, SP, Brasil"  
+company-site: "http://abj.org.br"
+output: 
+  abjTemplates::pdf_document:
+    toc: TRUE
+    keep_tex: TRUE
+---
+
+# Intro
+
+\lipsum[1-20]
+
+# Metods
+
+\lipsum[21-25]
+
+## Metods 1
+
+\lipsum[26-30]
+
+## Metods 2
+
+\lipsum[31-40]
+
+# Conclusion
+
+\lipsum[41-60]
+
