@@ -11,5 +11,5 @@ new_abj_draft <- function(name, template,  data = format(Sys.Date(), "%Y%m%d")){
 
 #' @export
 new_document <- function(name){
-  new_draft(name, template = 'pdf_document')
+  new_abj_draft(name, template = 'pdf_document')
 }
