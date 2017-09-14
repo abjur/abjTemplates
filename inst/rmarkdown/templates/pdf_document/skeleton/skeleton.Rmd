@@ -2,8 +2,6 @@
 title: "Title" 
 author: "Me"
 logo: "logo-abj.png"
-background-img: "logo-abj.png"
-background-scale: 2
 company: "Associação Brasileira de Jurimetria"
 company-address: "Rua Gomes de Carvalho, 1356, 2º andar. CEP 04547-005 - São Paulo, SP, Brasil"  
 company-site: "http://abj.org.br"
