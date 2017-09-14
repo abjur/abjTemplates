@@ -1,0 +1,136 @@
+\documentclass{article}
+
+\usepackage{ifxetex,ifluatex}
+
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+$if(euro)$
+  \usepackage{eurosym}
+$endif$
+\else % if luatex or xelatex
+  \ifxetex
+    \usepackage{mathspec}
+    \usepackage{xltxtra,xunicode}
+  \else
+    \usepackage{fontspec}
+  \fi
+  \defaultfontfeatures{Mapping=tex-text,Scale=MatchLowercase}
+  \newcommand{\euro}{€}
+\fi
+
+$for(header-includes)$
+$header-includes$
+$endfor$
+
+% Paper style
+\usepackage[
+  paperwidth=21cm,paperheight=29.7cm, % larger paper
+  layoutwidth=21cm,layoutheight=27.82cm, % A4 landscape
+  layouthoffset=0cm,layoutvoffset=1cm, % 1cm to crop on all sides
+  left=2cm,right=2cm,top=2cm,bottom=2cm,
+  headsep=\dimexpr3cm-72pt\relax,
+  headheight=72pt]{geometry}
+
+\pagestyle{fancy}
+\lhead{}
+\chead{}
+\rhead{\includegraphics{$logo$}}
+\lfoot{}
+\cfoot{$company$ \\ $company-address$ \\ $company-site$}
+\rfoot{\text{} \\ \text{} \\ \thepage}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0.4pt}
+
+$if(background-img)$
+\usepackage{background}
+\backgroundsetup{
+$if(background-scale)$
+scale=$background-scale$,
+$else$
+scale=1,
+$endif$
+color=black,
+$if(background-opacity)$
+opacity=$background-opacity$,
+$else$
+opacity=0.4,
+$endif$
+angle=0,
+contents={%
+  \includegraphics{$background-img$}
+  }%
+}
+$endif$
+
+% Header information
+% \title{$title$}
+% \author{$author$}
+
+\begin{document}
+
+%\maketitle
+
+\begin{centering}
+\textbf{ }\\
+\textbf{$company$} \\
+\textbf{ }\\
+$company-address$ \\
+\textbf{ }\\
+$zip-code$ \\
+\textbf{ }\\
+E-mail: \href{mailto:$e-mail$}{$e-mail$} \\
+\end{centering}
+
+\vspace{4em}
+\noindent\textbf{Ofício Nº $number$} \\
+\textbf{}
+A Sua Excelência $pronome$ \\
+\texbf{} \\
+$pronome2$ $destinatario$ \\
+\textbf{} \\
+$cargo$ $lugar$ \\
+\texbf{} \\
+\textbf{Assunto:} $assunto$ \\ \\
+
+$for(include-before)$
+$include-before$
+$endfor$
+
+Excelentíssim$pronome$ $nome$,
+$body$
+
+$if(natbib)$
+$if(bibliography)$
+$if(biblio-title)$
+$if(book-class)$
+\renewcommand\bibname{$biblio-title$}
+$else$
+\renewcommand\refname{$biblio-title$}
+$endif$
+$endif$
+\bibliography{$for(bibliography)$$bibliography$$sep$,$endfor$}
+
+$endif$
+$endif$
+$if(biblatex)$
+\printbibliography$if(biblio-title)$[title=$biblio-title$]$endif$
+
+$endif$
+$for(include-after)$
+$include-after$
+$endfor$
+
+\vfill
+\begin{flushright}
+  $finalizacao$, \\
+  \vspace{2em}
+  $assinatura$ \\
+  $assinatura-cargo$
+\end{flushright}
+
+\clearpage
+
+\section{Anexo I - Sobre a ABJ}
+
+\end{document}

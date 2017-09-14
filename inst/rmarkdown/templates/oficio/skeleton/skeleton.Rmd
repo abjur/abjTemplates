@@ -1,0 +1,29 @@
+---
+title: "Title" 
+author: "Me"
+logo: "logo-abj.png"
+background-img: "background-logo.png"
+background-scale: 1.5
+background-opacity: 0.3
+company: "Associação Brasileira de Jurimetria"
+company-address: "Rua Gomes de Carvalho, 1356, 2º andar. CEP 04547-005 - São Paulo, SP, Brasil" 
+e-mail: "contato@abj.org.br"
+company-site: "http://abj.org.br"
+number: "001/2017"
+pronome: "o Senhor"
+pronome2: "Presidente"
+destinatario: "Michel Temer"
+cargo: "Presidente da República Federativa do"
+lugar: "Brasil"
+assunto: "Acesso à base de dados."
+finalizacao: "Respeitosamente"
+assinatura: "Marcelo Guedes Nunes"
+assinatura-cargo: "Diretor Presidente da Associação Brasileira de Jurimetria"
+output: 
+  abjTemplates::oficio:
+    toc: FALSE
+    keep_tex: FALSE
+---
+
+\lipsum[1]
+

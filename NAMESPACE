@@ -2,5 +2,6 @@
 
 export("%>%")
 export(new_document)
+export(oficio)
 export(pdf_document)
 importFrom(magrittr,"%>%")
