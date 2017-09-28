@@ -38,11 +38,11 @@ To use **abjTemplates** from RStudio:
 
     
     install.packages("rmarkdown")
-    devtools::install_github("rstudio/rticles")
+    devtools::install_github("abjur/abjTemplates")
     
     
 3) Use the `rmarkdown::draft` function to create articles:
 
     
-    rmarkdown::draft("MyJSSArticle.Rmd", template = "jss_article", package = "rticles")
-    rmarkdown::draft("MyRJournalArticle", template = "rjournal_article", package = "rticles")
+    rmarkdown::draft("documento.Rmd", template = "pdf_document", package = "abjTemplates")
+    rmarkdown::draft("oficio.Rmd", template = "oficio", package = "abjTemplates")
