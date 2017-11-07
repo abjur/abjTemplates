@@ -4,7 +4,7 @@
 
 If you wish to install the development version from GitHub you can do this:
 
-devtools::install_github("rstudio/rticles")
+devtools::install_github("abjur/abjTemplates")
 
 ## Overview
 
@@ -23,9 +23,9 @@ To use **abjTemplates** from RStudio:
 
 2) Install the **abjTemplates** package: 
     
-    install.packages("rticles", type = "source")
+    install.packages("abjTemplates", type = "source")
     
-3) Use the **New R Markdown** dialog to create an article from one of the templates:
+3) Use the **New R Markdown** dialog to create a markdown:
 
  ![New R Markdown](http://rmarkdown.rstudio.com/images/new_r_markdown.png)
     
@@ -45,4 +45,3 @@ To use **abjTemplates** from RStudio:
 
     
     rmarkdown::draft("documento.Rmd", template = "pdf_document", package = "abjTemplates")
-    rmarkdown::draft("oficio.Rmd", template = "oficio", package = "abjTemplates")
