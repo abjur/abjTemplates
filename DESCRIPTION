@@ -10,5 +10,8 @@ LazyData: true
 Imports: bookdown,
     rmarkdown,
     stringr,
-    magrittr
+    magrittr,
+    purrr,
+    xtable,
+    knitr
 RoxygenNote: 6.0.1
