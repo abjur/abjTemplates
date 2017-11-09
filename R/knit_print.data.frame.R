@@ -26,9 +26,8 @@ knit_print.data.frame = function(x, lof = list(f1 = identity), names_from = "", 
       remove_double_hline() %>%
       # Remove double_hlines
       knitr::asis_output()
-
   } else {
-    knit_print.data.frame = purrr::partial(kable, format = 'pandoc')
+    knit_print.data.frame = purrr::partial(knitr::kable, format = 'pandoc')
   }
 }
 
