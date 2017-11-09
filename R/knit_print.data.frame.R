@@ -1,7 +1,7 @@
 #' @export
 knit_print.data.frame = function(x, lof = list(f1 = identity), names_from = "", names_to = "", names_title_case = TRUE, ...){
 
-  if("pdf_document" %in% rmarkdown::all_output_formats(knitr::current_input())){
+  if(stringr::str_detect(rmarkdown::all_output_formats(knitr::current_input()), "pdf")){
 
     result <- capture.output(x %>%
       prettify_names(names_from, names_to, names_title_case) %>%
