@@ -1,7 +1,7 @@
 #' @export
 knit_print.data.frame = function(x, lof = list(f1 = identity), names_from = "", names_to = "", names_title_case = TRUE, ...){
 
-  if(knitr:::is_latex_output()){
+  if("pdf_document" %in% rmarkdown::all_output_formats(knitr::current_input())){
 
     result <- capture.output(x %>%
       prettify_names(names_from, names_to, names_title_case) %>%
@@ -55,7 +55,7 @@ remove_double_hline <- function(xtable_lines){
 prettify_names = function(data_set, from = '', to = '', to_title = TRUE){
 
   from <- c(from, "n", "p", "p_acum", "nome", "assunto", "descricao", "total")
-  to <- c(to, "Frequência", "Percentual", "Percentual Acumulado", "Nome", "Assunto", "Descrição", "Total")
+  to <- c(to, "Frequ\\u00eancia", "Percentual", "Percentual Acumulado", "Nome", "Assunto", "Descri\\u00e7\\u00e3o", "Total")
   #Default replacements are overrided by the parameters
 
   matches <- match(names(data_set), from, nomatch = 0)
