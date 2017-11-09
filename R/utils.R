@@ -28,3 +28,6 @@ find_resource <- function (template, file) {
 #' @importFrom magrittr %>%
 #' @usage lhs \%>\% rhs
 NULL
+
+#' @importFrom utils capture.output
+NULL
