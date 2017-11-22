@@ -55,7 +55,7 @@ remove_double_hline <- function(xtable_lines){
 prettify_names = function(data_set, from = '', to = '', to_title = TRUE){
 
   from <- c(from, "n", "p", "p_acum", "nome", "assunto", "descricao", "total")
-  to <- c(to, "Frequ\\u00eancia", "Percentual", "Percentual Acumulado", "Nome", "Assunto", "Descri\\u00e7\\u00e3o", "Total")
+  to <- c(to, "Frequência", "Percentual", "Percentual Acumulado", "Nome", "Assunto", "Descrição", "Total")
   #Default replacements are overrided by the parameters
 
   matches <- match(names(data_set), from, nomatch = 0)
