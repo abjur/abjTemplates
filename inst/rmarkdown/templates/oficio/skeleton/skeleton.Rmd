@@ -6,7 +6,8 @@ background-img: "background-logo.png"
 background-scale: 1.5
 background-opacity: 0.3
 company: "Associação Brasileira de Jurimetria"
-company-address: "Rua Gomes de Carvalho, 1356, 2º andar. CEP 04547-005 - São Paulo, SP, Brasil" 
+company-address: "Rua Gomes de Carvalho, 1356, 2º andar" 
+zip-code: "CEP 04547-005 - São Paulo, SP, Brasil"
 e-mail: "contato@abj.org.br"
 company-site: "http://abj.org.br"
 number: "001/2017"
