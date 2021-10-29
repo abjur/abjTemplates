@@ -1,0 +1,17 @@
+# Plano de Trabalho {#planotrabalho}
+
+## Introdução {#introducao}
+
+Essa introdução tem um gráfico na Figura \@ref(fig:grafico) 
+
+```{r grafico, dpi = 300, fig.cap="Um gráfico."}
+ggplot2::qplot(cars$speed, cars$dist)
+```
+
+
+Essa imagem externa da Figura \@ref(fig:imagem-externa) fica em `assets/img`
+
+```{r imagem-externa, fig.cap="Ciclo da Ciência de Dados."}
+knitr::include_graphics("assets/img/ciclo-ds.png")
+```
+

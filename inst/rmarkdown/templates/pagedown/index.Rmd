@@ -1,0 +1,68 @@
+---
+title: "Análise Jurimétrica"
+subtitle: "Diagnóstico e proposições"
+author:
+  - name: "Associação Brasileira de Jurimetria - ABJ"
+    logo: assets/img/abj.png
+date: "`r Sys.setlocale('LC_TIME', 'pt_BR.UTF-8');format(Sys.Date(), '%d de %B de %Y')`"
+knit: "bookdown::render_book"
+documentclass: report
+bibliography: [assets/bib/book.bib, assets/bib/packages.bib]
+biblio-style: apalike
+link-citations: yes
+fontsize: 12pt
+colorlinks: yes
+toc-title: Sumário
+loa-title: Lista de abreviaturas e siglas
+paged-footnotes: yes
+site: bookdown::bookdown_site
+description: "Relatório de análise jurimétrica."
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(
+  echo = FALSE, 
+  message = FALSE, 
+  comment = FALSE, 
+  warning = FALSE, 
+  fig.height = 6, 
+  fig.width = 9
+)
+# devtools::document()
+```
+
+<div style="visibility: hidden" class="page-break-before">
+
+<abbr title = "Associação Brasileira de Jurimetria">ABJ</abbr>
+
+</div>
+
+<div class="equipe">
+
+# Equipe básica {-}
+
+pessoa 1
+
+pessoa 2
+
+# Equipe de apoio {-}
+
+pessoa 3
+
+pessoa 4
+
+# Financiamento {-}
+
+Empresa 1
+
+Empresa 2
+
+</div>
+
+\newpage
+
+# Sobre este documento {-}
+
+O relatório foi produzido em *RMarkdown*. Todos os gráficos produzidos pela ABJ são reprodutíveis, ou seja, qualquer pessoa interessada em verificar a metodologia e os algoritmos utilizados pode fazê-lo. O relatório foi gerado com o software estatístico R na versão `r paste(version$major, version$minor, sep = ".")`.
+
+\newpage
