@@ -1,0 +1,143 @@
+---
+title: "contrato template"
+output: html_notebook
+---
+CONTRATO DE APOIO 
+
+PARTES CONTRATANTES
+
+ASSOCIAÇÃO BRASILEIRA DE JURIMETRIA, associação privada, com sede na Rua Bela Cintra, 772, conjunto 102, 10º andar, Edifício Panamerica - CEP 01415-000, Consolação, São Paulo, SP, CEP 04578-000 inscrita no CNPJ sob nº 13.612.840/0001-57, representada por seu representante legal, Sr. Igor Pretel, adiante denominada ABJ ou REALIZADORA; e
+
+XXXXXXXXXXX com sede na Rua -------- <cidade>, <UF>, CEP, inscrito no CNPJ sob o n.º 00.000.000/0001-01, representado por seu representante legal, adiante denominado APOIADOR.
+
+CONSIDERANDO que a ABJ é uma entidade sem fins lucrativos, formada por pesquisadores do Direito e da Matemática, que tem por objetivo investigar e incentivar a aplicação da Estatística e da probabilidade no estudo do Direito e de suas instituições;
+
+CONSIDERANDO que o APOIADOR é uma sociedade de advogados que tem interesse em ser um dos APOIADORES da primeira fase do projeto “OBSERVATÓRIO XXXX”, na forma aqui prevista, adiante denominado “Projeto”;
+
+Têm as partes entre si justas e contratadas o presente Contrato de Apoio, mediante as seguintes cláusulas e condições:
+
+DO OBJETO DO CONTRATO
+
+
+
+Cláusula 1a – O objeto do presente contrato é o APOIO, em caráter não exclusivo, do Projeto “Observatório XXX”, cujo foco principal serão os processos judiciais <incluir informações sobre o observatório> .
+
+RESPONSABILIDADES DA ABJ:
+
+Cláusula 2a – Compete à ABJ:
+ 
+2.1 Permitir que o APOIADOR tenha acesso aos resultados antecipados da pesquisa.
+
+2.2 Incluir a marca do APOIADOR na divulgação dos resultados da pesquisa, incluindo o evento de lançamento e respectivos materiais.
+
+2.3 Responsabilizar-se pela elaboração dos impressos em geral, tais como convites, pré-programas, anúncios, divulgação, etc.
+
+2.4 Administrar o Projeto em todas as suas fases.
+
+2.5 Realizar todos os pagamentos que se fizerem necessários à realização do Projeto.
+
+2.6 Arcar e fiscalizar, na qualidade de única empregadora e/ou eventual contratante de terceiros, os recolhimentos de todos os encargos fiscais, trabalhistas, sociais, previdenciários que incidam ou venham a incidir sobre referidas relações empregatícias ou contratuais exclusivamente pertinentes à realização do Projeto.
+
+2.7 Incluir representante indicado pelo APOIADOR nas reuniões para montagem do questionário e demais diretrizes de pesquisa do Projeto.
+
+2.8 Entregar a base de dados, nos formatos CSV e XLSX, levantados pelo Projeto ao final.
+
+2.9 Realizar o evento de lançamento e divulgação dos resultados.
+
+2.10 Incluir representante indicado pelo APOIADOR para participar do evento de divulgação do projeto. 
+
+2.11 Incluir o APOIADOR no quadro de associado da ABJ. 
+
+2.12 Entregar uma ferramenta de visualização com os resultados da pesquisa de forma dinâmica, permitindo a aplicação de filtros e cruzamentos customizados (doravante denominado Dashboard).
+
+Cláusula 3ª– A ABJ se compromete a:
+
+3.1 Não utilizar práticas de trabalho análogo ao escravo nem explorar qualquer forma de mão-de-obra infantil e evitar, de todos os modos, a contratação e/ou aquisição de produtos e/ou serviços de pessoas físicas ou jurídicas que explorem, direta ou indiretamente, o trabalho infantil em qualquer localidade;
+
+3.2 Não empregar menor de 18 anos, inclusive menor aprendiz, em locais prejudiciais à sua formação, ao seu desenvolvimento físico, psíquico, moral e social, bem como em locais e serviços perigosos ou insalubres, em horários que não permitam a frequência à escola, e ainda, em horário noturno, considerando este o período compreendido entre as 22h e 5h;
+
+3.3 Não utilizar práticas de discriminação negativa, e limitativas ao acesso na relação de emprego ou a sua manutenção, tais como, mas não se limitando a motivos de: sexo, origem, raça, cor, condição física, religião, estado civil, idade, situação familiar ou estado gravídico.
+
+
+RESPONSABILIDADES DO APOIADOR
+
+
+Cláusula 4a – Cabe ao APOIADOR:
+
+4.1 Fornecer o logotipo que pretende que seja utilizado pela ABJ nos termos deste instrumento, bem como instruções para o seu uso, observado o disposto na Cláusula 7ª abaixo.
+
+4.2 Fornecer apoio financeiro na importância de R$ XX.XX,XX (XXX reais), que será pago em uma única parcela, vencendo-se no dia xx de mês de 202X, através de depósito bancário para ASSOCIAÇÃO BRASILEIRA DE JURIMETRIA - ABJ - CNPJ/MF 13.612.840/0001-57 - Banco Itaú S/A (341) - Agência 8499 - Conta Corrente: 01067-9.
+
+4.2.1 O comprovante de depósito valerá como recibo de pagamento e, desde que os valores sejam devidamente compensados, consequente prova do cumprimento da respectiva obrigação. 
+
+4.2.2 O valor do apoio financeiro acima descrito inclui todos os tributos incidentes sobre a presente contratação, nos termos da legislação vigente.
+
+4.3 Participar, por meio de representante previamente indicado, das reuniões com a ABJ para montagem do questionário e demais diretrizes de pesquisa do Projeto.
+
+REALIZAÇÃO DO PROJETO
+
+Cláusula 5a – Caso, por qualquer motivo, o Projeto não se realize, a ABJ devolverá as importâncias recebidas do APOIADOR, dentro de 30 (trinta) dias úteis a contar do comunicado do cancelamento, acrescidas de juros de mora segundo a taxa que estiver em vigor para a mora do pagamento de impostos devidos à Fazenda Nacional e multa de 2% (dois por cento), sem prejuízo da indenização pelas perdas e danos incorridos pelo APOIADOR.
+
+UTILIZAÇÃO DO LOGOTIPO DO APOIADOR
+Cláusula 6ª - Em decorrência das disposições contidas neste contrato, o APOIADOR confere à ABJ, uma licença provisória, não exclusiva, intransferível, sem a incidência de royalties e sem direito à utilização que não esteja expressamente prevista neste Contrato, para a utilização do Nome, Logotipo e Marca do APOIADOR, conforme as exatas cores e detalhes na forma original registrada, exclusivamente para promoção do Projeto, através dos meios e na forma prevista na Cláusula 2ª acima, zelando sempre, em sua utilização, pelo bom nome e conceito do APOIADOR. 
+
+VIGÊNCIA E RESCISÃO
+
+Cláusula 7ª - Este contrato entrará em vigor na data de sua assinatura e se extinguirá, de pleno direito, na data em que se verificar o cumprimento integral das obrigações ora assumidas pelas Partes.
+
+7.1	Em caso de rescisão contratual por culpa ou iniciativa da ABJ, esta deverá reembolsar ao APOIADOR a importância integral recebida, nos termos da cláusula 5ª acima.
+
+7.2 No transcorrer do relacionamento comercial, a evidência de qualquer ato, ação ou proposta ilícita que remeta a prática de suborno e/ou favorecimento poderá resultar em rescisão contratual. Além disso, qualquer ato, ação ou processo em que a ABJ esteja sendo acusada por prática ilícitas, de suborno ou que ferem o código de defesa do consumidor poderão resultar em rescisão contratual.
+
+PENALIDADES
+
+Cláusula 8ª – O inadimplemento de quaisquer das obrigações convencionadas neste instrumento obrigará a parte infratora a pagar à outra parte uma multa não compensatória, no montante de 10% (dez por cento) do valor total deste contrato, corrigido monetariamente a partir da data de sua assinatura até a data do efetivo pagamento, sem prejuízo das medidas judiciais cabíveis e da possibilidade de rescisão contratual pela Parte prejudicada pelo inadimplemento.
+
+Cláusula 9ª – O disposto na cláusula 8ª acima não se aplica ao eventual atraso no pagamento do apoio financeiro descrito na cláusula 4ª, caso em que o valor devido será acrescido de juros de mora segundo a taxa que estiver em vigor para a mora do pagamento de impostos devidos à Fazenda Nacional e multa de 2% (dois por cento).
+
+DISPOSIÇÕES GERAIS
+
+Cláusula 10ª - As obrigações das Partes restringem-se ao expressamente convencionado neste contrato.
+
+Cláusula 11ª - O presente contrato é celebrado em caráter de não exclusividade, podendo a ABJ celebrar com terceiros outros contratos de apoio para o Projeto, desde que não cause prejuízo ao disposto no presente instrumento. 
+
+Cláusula 12ª - Este instrumento se constitui, na presente data, no único pacto vigente entre as partes, cancelando e substituindo todas e quaisquer tratativas, propostas, termos, acordos ou instrumentos firmados e/ou emitidos anteriormente que versem sobre o objeto do presente contrato.
+
+Cláusula 13ª - Quaisquer alterações no presente contrato deverão ser realizadas mediante aditamento, sem o qual não produzirão qualquer efeito.
+
+Cláusula 14ª - Nenhuma das partes poderá ceder ou transferir, total ou parcialmente, os direitos e obrigações decorrentes deste contrato a terceiros sem o consentimento expresso da outra parte.
+
+Parágrafo único: A ABJ está autorizada a subcontratar prestadores de serviço e/ou consultores especializados para auxiliá-la no cumprimento dos objetivos deste projeto, que estão autorizados a acessar e utilizar os dados levantados.
+
+
+Cláusula 15ª – Eventual tolerância quanto à exigibilidade no cumprimento de qualquer obrigação ora convencionada se constituirá em mera liberalidade e, sob nenhuma hipótese poderá ser interpretada como renúncia de direito, nem, tampouco, poderá ser invocada como precedente para novas e idênticas concessões, de parte a parte.
+
+Cláusula 16ª - As Partes concordam que, se qualquer disposição do presente Contrato for considerada ou declarada nula ou inexequível, as demais disposições permanecerão válidas e eficazes. Nesse caso, as partes deverão providenciar a modificação da cláusula nula de forma a torná-la exequível e preservando, a todo tempo, o objetivo pretendido originalmente.
+
+Cláusula 17ª - As partes contratantes declaram, sob as penas da Lei, que os signatários do presente Instrumento são seus procuradores/representantes legais, devidamente constituídos, com poderes para assumir as obrigações ora contraídas.
+
+Cláusula 18ª – Os casos omissos no presente contrato, ou dúvidas decorrentes de sua aplicação, serão resolvidos de comum acordo entre as partes, mas somente se tornarão exigíveis após a assinatura de um termo de aditamento.
+
+Cláusula 19ª – Para dirimir questões oriundas de interpretação e inadimplemento contratual, após esgotadas as tentativas de solução amigável previstas no item anterior, fica eleito o foro da cidade de São Paulo, Estado de São Paulo, com exclusão de qualquer outro, por mais privilegiado que seja.
+
+Declaram, ainda, que tomaram conhecimento prévio do conteúdo deste instrumento e o revisaram antes de assiná-lo, tendo havido tempo suficiente para avaliação e assimilação de todas as condições, requisitos, direitos e obrigações nele inseridas, pois o texto é claro e de fácil compreensão.
+
+Desta forma, por terem assim convencionado, as partes, bem como seus sucessores a qualquer título, se comprometem a respeitar e cumprir o que aqui ficou estabelecido, firmando o presente instrumento em duas vias de igual teor e forma na presença das testemunhas adiante identificadas, para que produza seus jurídicos e legais efeitos.
+
+
+São Paulo, XX de mês de 202X.
+
+________________________________________________________
+Associação Brasileira de Jurimetria
+
+
+_________________________________________________________
+XXXXXXX
+
+Testemunhas: 	
+
+____________________________               	____________________________
+Nome:							Nome:
+CPF:							CPF:
+RG:							RG:
+
